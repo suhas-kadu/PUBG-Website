@@ -1,0 +1,37 @@
+
+body {
+  background-image: url("home.jpg");
+}
+
+
+.Centre { 
+
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	
+}
+
+
+.Centre ul li  {
+display:block;
+font-family:Times New Roman;
+font-size:40px;
+font-style:normal;
+margin:3px;
+
+}
+
+a {
+color:black;
+}
+
+p {
+display:block;
+font-family:Times New Roman;
+font-size:50px;
+font-style:normal;
+margin:3px;
+
+}

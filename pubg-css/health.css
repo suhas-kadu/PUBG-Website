@@ -1,0 +1,51 @@
+.row {
+display:flex;
+padding:20px;
+}
+
+.column {
+flex:25%;
+padding:50px;
+}
+
+.column ul li {
+display:block;
+font-family:Serif;
+font-size:20px;
+font-style:normal;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+
+}
+
+.column ul li img {
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:35%;
+padding:20px;
+}
+
+p {
+font-family:Serif;
+font-size:48px;
+font-style:normal;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+
+}
+
+hr {
+border-top : 1px black solid;
+}
+
+.header hr {
+border-top : 2px black inset;
+
+}
+
+body {
+background-color:#E6E6FA;
+}

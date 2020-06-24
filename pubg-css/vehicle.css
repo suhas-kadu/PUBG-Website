@@ -1,0 +1,46 @@
+.row {
+display:flex;
+padding:5px;
+}
+
+.column {
+flex:20%;
+padding:45px;
+}
+
+.column ul li {
+display:block;
+font-family:Serif;
+font-size:26px;
+font-style:normal;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+
+}
+
+p {
+font-family:Serif;
+font-size:48px;
+font-style:normal;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+}
+
+.column ul li img {
+display:block;
+width:50%;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+
+}
+
+hr {
+border-top:2px dashed black;
+}
+
+body {
+background-color:#F0F8FF;
+}

@@ -1,0 +1,60 @@
+.row {
+display:flex;
+padding:4px;
+}
+
+.column {
+flex:10%;
+padding:8px;
+
+}
+
+img {
+display:block;
+width:45%;
+}
+
+.column ul li {
+display:block;
+font-family:Serif;
+font-size:19px;
+font-style:normal;
+
+}
+
+.column strong {
+font-family:Times New Roman;
+font-size:22px;
+font-style:normal;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+
+}
+
+p {
+font-family:Serif;
+font-size:48px;
+font-style:normal;
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+}
+
+
+hr {
+border-top:1px solid black;
+}
+
+
+br.small {
+    display: block;
+    margin-bottom: 2px;
+    font-size:2px;
+    line-height: 2px;
+}
+
+
+body {
+background-color:#E0FFFF;
+}
