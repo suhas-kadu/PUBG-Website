@@ -1,0 +1,4 @@
+Create 3 Folders : One for HTML, one for CSS and for Images.
+Store all the HTML files in HTML folder, CSS files in CSS folder and images in Images folder.
+Give the correct path to the CSS files and images in the HTML file.
+If you do not want to make seprate folders then store all the files including images in one folder only and give names of the files with proper extensions.
